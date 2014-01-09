@@ -1,4 +1,4 @@
-ComputationLinearAlgebra
+Computational Linear Algebra
 ========================
 
-Numeric Methods
+Numeric Methods implemented in Java
